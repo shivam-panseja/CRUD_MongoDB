@@ -139,6 +139,7 @@ app.delete('/api/sale/:id', (req, res) => {
         }
     }
 )
+console.log("Project is done")
 
 
 
